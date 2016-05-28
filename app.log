@@ -1,0 +1,3 @@
+INFO:root:Программа запущена с параметрами Namespace(file='YHOO.csv', file_log='app.log', file_out='rezult.txt', indicator=None, level_log='INFO', symbol=None, window_l=26, window_s=12, year=2014) в режиме файл
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', indicator=None, level_log='INFO', symbol='AAPL', window_l=26, window_s=12, year=2014) в режиме сеть
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', indicator='MACD', level_log='INFO', symbol='AAPL', window_l=26, window_s=12, year=2014) в режиме сеть
